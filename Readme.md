@@ -1,0 +1,7 @@
+The course offers a practical introduction to a few programming languages and tools currently used in data science:
+
+Python is a general-purpose, high-level and easy to learn programming language. It provides a large number of data science libraries (e.g. machine learning, neural networks, data manipulation, data visualization).
+SQL is a standard language used to create, query, update and manage relational databases. For example, such databases are used to store large tables with results of experiments.
+Git is a tool that allows to track changes in files during development of programs. It is the current standard for collaborative code development.
+During the course the students will write Python programs of growing complexity (from basic coding examples to fitting a machine learning model). After this course you will be able to program simple reproducible data analyses (consisting of data reading, cleaning, simple modelling, and reporting steps). The state-of-the-art Python-specific data manipulation/visualization (pandas, Matplotlib) and data science libraries will be discussed.
+Fundamentals of the relational databases and of the SQL language will be presented in a context of an example database (SQLite). The database will be accessed through direct SQL statements and through high-level object-oriented Python library (SQLAlchemy).
